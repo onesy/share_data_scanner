@@ -1,0 +1,3 @@
+[submodule "workerman-JsonRpc"]
+	path = workerman-JsonRpc
+	url = https://github.com/walkor/workerman-JsonRpc.git
